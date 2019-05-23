@@ -15,9 +15,7 @@ for(i=0;i<n;i++)
    
 {
        
-printf("%s ",s);
-   
-printf("\n");
+printf("\n %s ",s);
    
 }
    
